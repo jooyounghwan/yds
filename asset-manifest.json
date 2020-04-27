@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/yds/static/js/main.0854d0cc.chunk.js",
+    "main.js.map": "/yds/static/js/main.0854d0cc.chunk.js.map",
+    "runtime-main.js": "/yds/static/js/runtime-main.21d83d03.js",
+    "runtime-main.js.map": "/yds/static/js/runtime-main.21d83d03.js.map",
+    "static/js/2.3cfa99e8.chunk.js": "/yds/static/js/2.3cfa99e8.chunk.js",
+    "static/js/2.3cfa99e8.chunk.js.map": "/yds/static/js/2.3cfa99e8.chunk.js.map",
+    "index.html": "/yds/index.html",
+    "precache-manifest.af4d947072e1a62bed52dca1d6718d5f.js": "/yds/precache-manifest.af4d947072e1a62bed52dca1d6718d5f.js",
+    "service-worker.js": "/yds/service-worker.js",
+    "static/js/2.3cfa99e8.chunk.js.LICENSE.txt": "/yds/static/js/2.3cfa99e8.chunk.js.LICENSE.txt",
+    "static/media/IMDb.svg": "/yds/static/media/IMDb.63115ec2.svg",
+    "static/media/Loading.gif": "/yds/static/media/Loading.6bc11c2e.gif",
+    "static/media/NoVideo.png": "/yds/static/media/NoVideo.13526e1e.png",
+    "static/media/noPosterSmall.png": "/yds/static/media/noPosterSmall.d0ac7ce5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21d83d03.js",
+    "static/js/2.3cfa99e8.chunk.js",
+    "static/js/main.0854d0cc.chunk.js"
+  ]
+}
